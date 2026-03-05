@@ -28,4 +28,7 @@ php artisan serve
 
 ## API documenttation
 
-https://documenter.getpostman.com/view/36127848/2sB3QKsVih
+https://documenter.getpostman.com/view/36127848/2sBXcKDJo2
+
+## github link
+https://github.com/kcirtap05/event_booking_system
